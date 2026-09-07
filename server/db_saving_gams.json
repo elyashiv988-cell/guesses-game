@@ -1,0 +1,52 @@
+[
+    {
+        "username": "or",
+        "password": "$2b$12$00A3EWbd.X2RZ/dMSXxc9OB.aSREcsD32WLQVh43eJJK86D5mAa6i",
+        "saved_game": {
+            "target": null,
+            "attempts": 0,
+            "history": [],
+            "isActive": false
+        }
+    },
+    {
+        "username": "55",
+        "password": "$2b$12$PPbduqca11bsmDjc3ZIjVePhYmcqxrzrk5jfRZVxWQKkoFd1T4hru",
+        "saved_game": {
+            "target": null,
+            "attempts": 0,
+            "history": [],
+            "isActive": false
+        }
+    },
+    {
+        "username": "5",
+        "password": "$2b$12$PJ6WvufGBavYDqm4Be7kPO1SD6Q57dkzrtNzC4KVOkKlH.ERVXOWy",
+        "saved_game": {
+            "target": null,
+            "attempts": 0,
+            "history": [],
+            "isActive": false
+        }
+    },
+    {
+        "username": "eli",
+        "password": "$2b$12$b/1GKJzuk3rjbtVbBx/4/uzRIVRODxtAmne3mAYLviAPMk.vXfPFi",
+        "saved_game": {
+            "target": null,
+            "attempts": 0,
+            "history": [],
+            "isActive": false
+        }
+    },
+    {
+        "username": "or ",
+        "password": "$2b$12$muxlSAaRmeyCwNJszPiQUOjSYI1w3IwAuznDUfWs4nR8nB8wMwU2a",
+        "saved_game": {
+            "target": null,
+            "attempts": 0,
+            "history": [],
+            "isActive": false
+        }
+    }
+]
